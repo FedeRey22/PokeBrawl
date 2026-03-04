@@ -1,2 +1,2 @@
 # PokeBrawl
-Place your bet on a 6 pokemon arena
+Place your bet in a 6 pokemon arena. Can you guess the winner?
